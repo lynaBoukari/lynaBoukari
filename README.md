@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Software Engineering Student and MLOps Enthusiast
+### Software Engineer, Artificial Intelligence Engineering Studend and MLOps Enthusiast
 
 - 👨‍💻 Currently interning in MLOps and building scalable and resilient systems
 - 🤖 Passionate about machine learning and exploring new ways of deploying models into production in an edge computing context
